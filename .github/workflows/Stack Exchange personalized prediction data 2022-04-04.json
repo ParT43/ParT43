@@ -1,0 +1,68 @@
+{
+ "Data": {
+  "TotalTagViews": 3,
+  "TotalQuestionViews": 0,
+  "IsHighRepEarner": false,
+  "TagViews": {
+   "html": 2,
+   "java": 1
+  },
+  "CampaignViews": null,
+  "QuestionViews": null,
+  "InterestingTags": {
+  },
+  "SeenAcrossSites": null,
+  "DisplayAdPersonas": {
+  },
+  "Seniorities": [],
+  "PredictionType": "PersonalizedPredictions",
+  "TagPercents": null,
+  "Features": [{
+   "Group": -1,
+   "Order": -1,
+   "Value": 5,
+   "Feature": "QuestionTotal.OneYear",
+   "FeatureType": "SingleFeature"
+  }, {
+   "Group": -1,
+   "Order": -1,
+   "Value": 0.2,
+   "Feature": "newline",
+   "FeatureType": "TagVisits.TagPercent.OneYear"
+  }, {
+   "Group": -1,
+   "Order": -1,
+   "Value": 0.2,
+   "Feature": "puppet",
+   "FeatureType": "TagVisits.TagPercent.OneYear"
+  }, {
+   "Group": -1,
+   "Order": -1,
+   "Value": 0.2,
+   "Feature": "regex",
+   "FeatureType": "TagVisits.TagPercent.OneYear"
+  }, {
+   "Group": -1,
+   "Order": -1,
+   "Value": 0.2,
+   "Feature": "java",
+   "FeatureType": "TagVisits.TagPercent.OneYear"
+  }, {
+   "Group": -1,
+   "Order": -1,
+   "Value": 0.4,
+   "Feature": "html",
+   "FeatureType": "TagVisits.TagPercent.OneYear"
+  }, {
+   "Group": -1,
+   "Order": -1,
+   "Value": 0.2,
+   "Feature": "email",
+   "FeatureType": "TagVisits.TagPercent.OneYear"
+  }],
+  "Languages": []
+ },
+ "PrivacyPolicyLink": "https://stackexchange.com/legal/privacy-policy",
+ "GeneratedOn": "2022-04-04",
+ "Disclaimer": "This data is derived from your activity and various data processing algorithms.  It represents \"best guesses\" about you, and is unlikely to be completely accurate.  Use is governed by the Stack Exchange Privacy Policy."
+}
